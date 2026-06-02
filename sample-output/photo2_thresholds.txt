@@ -1,0 +1,3 @@
+low threshold : 49.3123
+high threshold: 98.6245
+direction classes: 0, 45, 90, 135 degrees
