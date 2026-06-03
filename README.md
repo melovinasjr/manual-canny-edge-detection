@@ -4,6 +4,10 @@ Coursework project for Image Processing.
 
 This project implements the Canny edge detection pipeline manually without using `cv2.Canny`.
 
+## Coursework Note
+
+Built as an academic project to practice implementing an edge detection algorithm step by step instead of relying on a built-in library function.
+
 ## Pipeline
 
 - Convert input image to grayscale
@@ -31,3 +35,9 @@ python manual_canny.py photo2.jpg --out_dir output
 
 Sample final-edge outputs and threshold logs are included in `sample-output/`.
 
+## Sample Output
+
+| Input | Final edges |
+| --- | --- |
+| `photo1.jpg` | ![photo1 final edges](sample-output/photo1_10_final_edges.png) |
+| `photo2.jpg` | ![photo2 final edges](sample-output/photo2_10_final_edges.png) |
