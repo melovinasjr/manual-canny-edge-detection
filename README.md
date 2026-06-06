@@ -4,6 +4,10 @@ Coursework project for Image Processing.
 
 This project implements the Canny edge detection pipeline manually without using `cv2.Canny`.
 
+## Preview
+
+![Manual Canny Edge Detection preview](assets/preview.png)
+
 ## Coursework Note
 
 Built as an academic project to practice implementing an edge detection algorithm step by step instead of relying on a built-in library function.
